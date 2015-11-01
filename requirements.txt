@@ -1,0 +1,6 @@
+Django
+
+# test
+coverage
+django-nose
+selenium==2.48.0
